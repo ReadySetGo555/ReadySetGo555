@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm just getting started
 
 <!--
 **ReadySetGo555/ReadySetGo555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
